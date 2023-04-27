@@ -1,0 +1,2 @@
+move 1 from 7 to 6
+move 1 from 8 to 5
